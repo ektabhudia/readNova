@@ -1,0 +1,14 @@
+.option-btn {
+  background-color: #f0f0f0;
+  transition: background 0.2s;
+}
+
+.option-btn:hover {
+  background-color: #f97316;
+  color: #fff;
+}
+
+.option-btn.selected {
+  background-color: #f97316;
+  color: #fff;
+}

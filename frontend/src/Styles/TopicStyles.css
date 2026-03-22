@@ -1,0 +1,9 @@
+.option-btn {
+  background-color: #f0f0f0;
+  transition: background 0.2s;
+}
+
+.option-btn:hover {
+  background-color: #f97316;
+  color: white; /* Change to your desired hover color */
+}
